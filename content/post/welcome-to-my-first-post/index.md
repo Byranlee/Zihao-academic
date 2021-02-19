@@ -3,6 +3,8 @@ title: Welcome to my first post
 date: 2021-02-19T23:47:37.743Z
 draft: false
 featured: false
+authors:
+  - Zihao
 image:
   filename: featured
   focal_point: Smart

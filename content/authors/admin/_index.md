@@ -25,16 +25,16 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - major: Ph.D. in Mining & Minerals Engineering
+  - major: PhD in Mining & Minerals Engineering
     institution: Virginia Tech
     year: 2017 - expected 2021
-  - major: M.S. in Mining & Minerals Engineering
+  - major: MS in Mining & Minerals Engineering
     institution: Virginia Tech
     year: 2017 - 2018
-  - major: M.S. in Oil&Gas Field Development Engineering
+  - major: MS in Oil&Gas Field Development Engineering
     institution: China University of Petroleum, Beijing
     year: 2013 - 2016
-  - major: B.S. in Geographic Information System (GIS)
+  - major: BS in Geographic Information System (GIS)
     institution: China University of Petroleum, East China
     year: 2009 - 2013
 

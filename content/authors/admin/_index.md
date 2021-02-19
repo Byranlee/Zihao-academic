@@ -31,7 +31,7 @@ education:
   - course: M.S. in Mining & Minerals Engineering
     institution: Virginia Tech
     year: 2017 - 2018
-  - course: M.S. in Oil&Gas Field Development Engineering
+  - course: M.S. in Oil & Gas Field Development Engineering
     institution: China University of Petroleum, Beijing
     year: 2013 - 2016
   - course: B.S. in Geographic Information System (GIS)

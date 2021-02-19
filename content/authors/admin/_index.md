@@ -34,7 +34,7 @@ education:
   - course: M.S. in Oil&Gas Field Development Engineering
     institution: China University of Petroleum, Beijing
     year: 2013 - 2016
-  - major: B.S. in Geographic Information System (GIS)
+  - course: B.S. in Geographic Information System (GIS)
     institution: China University of Petroleum, East China
     year: 2009 - 2013
 

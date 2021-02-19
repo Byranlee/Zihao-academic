@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - major: PhD in Mining & Minerals Engineering
+  - course: PhD in Mining & Minerals Engineering
     institution: Virginia Tech
     year: 2017 - expected 2021
   - major: MS in Mining & Minerals Engineering

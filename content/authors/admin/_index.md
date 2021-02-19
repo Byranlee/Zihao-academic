@@ -27,16 +27,16 @@ education:
   courses:
   - major: Ph.D. in Mining & Minerals Engineering
     institution: Virginia Tech
-    year: 2017 - expected 2021
+    year:2017 - expected 2021
   - major: M.S. in Mining & Minerals Engineering
     institution: Virginia Tech
-    year: 2017 - 2018
+    year:2017 - 2018
   - major: M.S. in Oil&Gas Field Development Engineering
     institution: China University of Petroleum, Beijing
-    year: 2013 - 2016
+    year:2013 - 2016
   - major: B.S. in Geographic Information System (GIS)
     institution: China University of Petroleum, East China
-    year: 2009 - 2013
+    year:2009 - 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

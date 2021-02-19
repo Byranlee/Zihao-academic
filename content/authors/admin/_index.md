@@ -1,39 +1,42 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Zihao Li
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Virginia Tech
+  url: https://www.vt.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Petrophysics
+- Fluid flow in porous media
+- Enhanced oil/gas recovery
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - major: Ph.D. in Mining & Minerals Engineering
+    institution: Virginia Tech
+    year: 2017 - expected 2021
+  - major: M.S. in Mining & Minerals Engineering
+    institution: Virginia Tech
+    year: 2017 - 2018
+  - major: M.S. in Oil&Gas Field Development Engineering
+    institution: China University of Petroleum, Beijing
+    year: 2013 - 2016
+  - major: B.S. in Geographic Information System (GIS)
+    institution: China University of Petroleum, East China
+    year: 2009 - 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

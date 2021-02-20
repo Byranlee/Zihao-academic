@@ -10,6 +10,8 @@ authors:
   - Cheng Chen
 author_notes:
   - Virginia Tech
+  - Virginia Tech
+  - Virginia Tech
 doi: https://doi.org/10.1016/j.petrol.2020.107010
 publication: Journal of Petroleum Science and Engineering
 publication_short: ""

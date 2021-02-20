@@ -1,77 +1,48 @@
 ---
-# Display name
 title: Zihao Li
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
 role: Ph.D. Candidate
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Virginia Tech
-  url: https://www.vt.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include petrophysics, fluid flow in porous media, and enhanced oil/gas recovery.
-
-# Interests to show in About widget
+bio: My research interests include petrophysics, fluid flow in porous media, and
+  enhanced oil/gas recovery.
 interests:
-- Petrophysics
-- Fluid flow in porous media
-- Enhanced oil/gas recovery
-
-# Education to show in About widget
+  - Petrophysics
+  - Fluid flow in porous media
+  - Enhanced oil/gas recovery
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Zihao-Li-9
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=sWxob7AAAAAJ&hl=en
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/zihao-li-90bb71116/
+organizations:
+  - name: Virginia Tech
+    url: https://www.vt.edu/
 education:
   courses:
-  - course: Ph.D. in Mining & Minerals Engineering
-    institution: Virginia Tech
-    year: 2017 - expected 2021
-  - course: M.S. in Mining & Minerals Engineering
-    institution: Virginia Tech
-    year: 2017 - 2018
-  - course: M.S. in Oil & Gas Field Development Engineering
-    institution: China University of Petroleum, Beijing
-    year: 2013 - 2016
-  - course: B.S. in Geographic Information System (GIS)
-    institution: China University of Petroleum, East China
-    year: 2009 - 2013
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Zihao-Li-9
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=sWxob7AAAAAJ&hl=en
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/zihao-li-90bb71116/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: Ph.D. in Mining & Minerals Engineering
+      institution: Virginia Tech
+      year: 2017 - expected 2021
+    - course: M.S. in Mining & Minerals Engineering
+      institution: Virginia Tech
+      year: 2017 - 2018
+    - course: M.S. in Oil & Gas Field Development Engineering
+      institution: China University of Petroleum, Beijing
+      year: 2013 - 2016
+    - course: B.S. in Geographic Information System (GIS)
+      institution: China University of Petroleum, East China
+      year: 2009 - 2013
 email: ""
-
-# Highlight the author in author lists? (true/false)
+superuser: true
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zihao Li is a Ph.D. candidate of mining engineering at Virginia Tech. His research interests include multiscale modeling, in-lab experiment, and data analysis. He joins Dr. Cheng Chen's group, which develops the research about subsurface energy, water, and environmental systems.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+

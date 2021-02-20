@@ -10,13 +10,7 @@ authors:
   - Baiguang Li
   - Zhaojie Song
   - Jirui Hou
-author_notes:
-  - China University of Petroleum, Beijing
-  - China HuaYou Group Corporation, China
-  - China University of Petroleum, Beijing
-  - No.2 Oil Production Company, Daqing Oilfield Limited Company, Daqing, 163414, China
-  - China University of Petroleum, Beijing
-  - China University of Petroleum, Beijing
+
 doi: http://dx.doi.org/10.1016/j.jngse.2016.07.046
 publication: Journal of Natural Gas Science and Engineering
 abstract: >-

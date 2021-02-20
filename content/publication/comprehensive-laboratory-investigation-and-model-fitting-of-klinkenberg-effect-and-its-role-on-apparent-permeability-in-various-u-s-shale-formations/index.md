@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Zihao Li
   - Nino Ripepi
-  - Cheng 
+  - Cheng Chen
 doi: https://onepetro.org/ARMAUSRMS/proceedings/ARMA19/All-ARMA19/ARMA-2019-1568/124915
 publication: 53rd U.S. Rock Mechanics/Geomechanics Symposium
 abstract: Hydraulic fracturing in shales is challenging because of the

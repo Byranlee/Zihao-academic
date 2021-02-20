@@ -4,7 +4,12 @@ title: Experimental Study on Spontaneous Imbibition of CO2‑Rich Brine in Tight
 publication_types:
   - "2"
 authors:
-  - Yongqiang
+  - Yongqiang Tang
+  - Rui Wang
+  - Zihao Li
+  - Maolei Cui
+  - Zengmin Lun
+  - Yu Lu
 doi: https://dx.doi.org/10.1021/acs.energyfuels.9b01621
 publication: Energy & Fuels
 abstract: >-

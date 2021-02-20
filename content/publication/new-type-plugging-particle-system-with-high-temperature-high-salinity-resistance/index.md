@@ -9,12 +9,7 @@ authors:
   - Jieheng Wu
   - Jirui Hou
   - Shiyuan Qu
-author_notes:
-  - China University of Petroleum, Beijing
-  - China University of Petroleum, Beijing
-  - Changqing Division, CNPC Logging, Xi'an, China
-  - China University of Petroleum, Beijing
-  - China University of Petroleum, Beijing
+
 doi: http://dx.doi.org/10.1016/j.petrol.2017.03.024
 publication: Journal of Petroleum Science and Engineering
 publication_short: ""

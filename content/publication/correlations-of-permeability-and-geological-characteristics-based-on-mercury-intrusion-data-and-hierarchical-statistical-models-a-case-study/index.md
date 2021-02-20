@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - Zihao
-doi: "DOI: 10.1115/1.4047327]"
+doi: "https://doi.org/10.1115/1.4047327"
 publication: Journal of Energy Resources Technology
 abstract: >-
   The mercury intrusion technique is a crucial in-lab method to investigate the

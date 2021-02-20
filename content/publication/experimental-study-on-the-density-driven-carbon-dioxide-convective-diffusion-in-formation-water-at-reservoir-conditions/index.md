@@ -4,7 +4,13 @@ title: Experimental Study on the Density-Driven Carbon Dioxide Convective
 publication_types:
   - "2"
 authors:
-  - Yongqiang
+  - Yongqiang Tang
+  - Zihao Li
+  - Rui Wang
+  - Maolei Cui
+  - Xin Wang
+  - Zengmin Lun
+  - Yu Lu
 doi: 10.1021/acsomega.9b00627
 publication: ACS Omega
 abstract: >-

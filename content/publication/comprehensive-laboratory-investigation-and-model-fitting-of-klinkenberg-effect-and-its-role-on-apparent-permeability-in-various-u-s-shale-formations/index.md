@@ -4,7 +4,9 @@ title: Comprehensive laboratory investigation and model fitting of Klinkenberg
 publication_types:
   - "1"
 authors:
-  - Zihao
+  - Zihao Li
+  - Nino Ripepi
+  - Cheng 
 doi: https://onepetro.org/ARMAUSRMS/proceedings/ARMA19/All-ARMA19/ARMA-2019-1568/124915
 publication: 53rd U.S. Rock Mechanics/Geomechanics Symposium
 abstract: Hydraulic fracturing in shales is challenging because of the

@@ -41,7 +41,7 @@ abstract: A new-type plugging coated particle system was investigated which is
   research of new type plugging particle could provide guidance for plugging
   agent selection in high temperature and field development project designing.
 draft: false
-featured: false
+featured: true
 image:
   filename: particle.png
   focal_point: Smart

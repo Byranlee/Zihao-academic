@@ -5,12 +5,12 @@ title: Using pressure pulse decay experiments and a novel multi-physics shale
 publication_types:
   - "2"
 authors:
-  - Zihao;Nino;CHeng
+  - Zihao
 author_notes:
   - Virginia Tech
 doi: https://doi.org/10.1016/j.petrol.2020.107010
 publication: Journal of Petroleum Science and Engineering
-publication_short: JPSE
+publication_short: ""
 abstract: The confining pressure imposed on a shale formation has a significant
   impact on the apparent permeability of the rock. Gas flow in low-permeability
   shales differs significantly from liquid flow because of the Klinkenberg
@@ -36,8 +36,8 @@ abstract: The confining pressure imposed on a shale formation has a significant
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
-date: 2021-02-19T23:54:48.636Z
+date: 2021-02-20T00:03:57.903Z
 ---

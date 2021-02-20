@@ -5,7 +5,7 @@ title: Using pressure pulse decay experiments and a novel multi-physics shale
 publication_types:
   - "2"
 authors:
-  - admin
+  - admin, Nino Ripepi, Cheng Chen
 author_notes:
   - Virginia Tech
 doi: https://doi.org/10.1016/j.petrol.2020.107010

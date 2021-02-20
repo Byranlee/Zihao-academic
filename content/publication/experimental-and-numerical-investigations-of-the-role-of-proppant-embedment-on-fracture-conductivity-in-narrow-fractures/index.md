@@ -4,7 +4,11 @@ title: Experimental and Numerical Investigations of the Role of Proppant
 publication_types:
   - "2"
 authors:
-  - Fan
+  - Ming Fan
+  - Zihao Li
+  - Yanhui Han
+  - Yuntian Teng
+  - Cheng Chen
 doi: https://doi.org/10.2118/204222-PA
 publication: SPE Journal
 abstract: With the advancement of drilling and completion technologies in
@@ -47,5 +51,5 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2021-02-11T04:05:00.000Z
+date: 2021-02-10T04:05:00.000Z
 ---

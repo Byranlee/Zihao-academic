@@ -4,7 +4,9 @@ title: "Correlations of Permeability and Geological Characteristics Based on
 publication_types:
   - "2"
 authors:
-  - Zihao
+  - Zihao Li
+  - Wenyu Gao
+  - Xiangming Li
 doi: "https://doi.org/10.1115/1.4047327"
 publication: Journal of Energy Resources Technology
 abstract: >-

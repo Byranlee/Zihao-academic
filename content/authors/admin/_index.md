@@ -7,6 +7,7 @@ interests:
   - Petrophysics
   - Fluid flow in porous media
   - Enhanced oil/gas recovery
+  - Poroelasticity
 social:
   - icon: envelope
     icon_pack: fas

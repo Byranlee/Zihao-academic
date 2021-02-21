@@ -10,6 +10,7 @@ authors:
   - Yanhui Han
   - Yuntian Teng
   - Cheng Chen
+doi: https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/669876
 publication: AGU Falling Meeting 2020
 abstract: With the improvement of hydraulic fracturing techniques, more
   challenging and longer wells are developed and narrow fracture environments

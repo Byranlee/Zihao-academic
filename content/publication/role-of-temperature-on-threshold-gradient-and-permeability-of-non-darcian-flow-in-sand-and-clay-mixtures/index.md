@@ -4,7 +4,12 @@ title: Role of Temperature on Threshold Gradient and Permeability of non-Darcian
 publication_types:
   - "1"
 authors:
-  - Yuntian
+  - Yuntian Teng
+  - Zihao Li
+  - Weiyu Zheng
+  - Yifeng Wang
+  - Rui Qiao
+  - Cheng Chen
 publication: Interpore Conference 2020
 abstract: >-
   The swelling of clay results in the non-linearity at the lower pressure range

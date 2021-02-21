@@ -4,7 +4,10 @@ title: Experimental Investigation of Fracture Conductivity versus Proppant Areal
 publication_types:
   - "1"
 authors:
-  - Zihao
+  - Zihao Li
+  - Ming Fan
+  - Yuntian Teng
+  - Cheng Chen
 doi: https://ui.adsabs.harvard.edu/abs/2019AGUFMMR41D0072L/abstract
 publication_short: AGU Fall Meeting 2019
 abstract: In hydraulic fracturing, the transport and deposition patterns of

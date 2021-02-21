@@ -28,7 +28,7 @@ feature:
   icon: windows
   icon_pack: fab
   name: Microsoft Office
-- description: Data analysis, Figure plot
+- description: Pandas, NumPy, Matplotlib
   icon: python
   icon_pack: fab
   name: Python

@@ -4,7 +4,10 @@ title: Integration Pulse Decay Experimental Data into A Novel Continuum-Scale
 publication_types:
   - "1"
 authors:
-  - Zihao
+  - Zihao Li
+  - Yuntian Teng
+  - Ming Fan
+  - Cheng Chen
 publication: Interpore Conference 2020
 draft: false
 featured: false

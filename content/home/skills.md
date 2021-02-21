@@ -32,11 +32,11 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
-- description: hierarchical model and formation petrophysical properties
+- description: hierarchical model and formation petrophysical properties combination
   icon: chart-line
   icon_pack: fas
   name: Geostatistics
-- description: Journal/conference paper, Grant proposal, Research Statement, in Chinese and English
+- description: Journal/conference paper, Grant proposal, Research statement, in Chinese and English
   icon: pen
   icon_pack: fas
   name: Writing
@@ -47,7 +47,7 @@ feature:
 - description: More and more trails
   icon: hiking
   icon_pack: fas
-  name: Go hiking
+  name: Hiking
 - description: Pat pat pat
   icon: cat
   icon_pack: fas

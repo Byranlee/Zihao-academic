@@ -16,27 +16,39 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 
+- description: Finite difference method solver, Data analysis, Uncertainty analysis, Figure plot 
   icon: medium-m
   icon_pack: fab
   name: Matlab
-- description: 
+- description: Rock core flooding, Pulse decay permeameter, Fracture conductivity cell, CT scanning, Microfluidic  
+  icon: tools
+  icon_pack: fas
+  name: Laboratory experiment
+- description: Word, Excel, Powerpoint
   icon: windows
   icon_pack: fab
   name: Microsoft Office
-- description: 
+- description: Data analysis, Figure plot
   icon: python
   icon_pack: fab
   name: Python
-- description: 
+- description: hierarchical model and formation petrophysical properties
   icon: chart-line
   icon_pack: fas
   name: Geostatistics
-- description:
+- description: Journal/conference paper, Grant proposal, Research Statement, in Chinese and English
   icon: pen
   icon_pack: fas
   name: Writing
-- description: 
+- description: ArcGIS, Surfer, and other softwares 
+  icon: globe-americas
+  icon_pack: fas
+  name: GIS
+- description: More and more trails
+  icon: hiking
+  icon_pack: fas
+  name: Go hiking
+- description: Pat pat pat
   icon: cat
   icon_pack: fas
   name: Pat the cat

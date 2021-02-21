@@ -35,6 +35,13 @@ experience:
         * Geostatistics application (hierarchical model) in the geological formation properties investigation
         * Laboratory equipment set up and laboratory management
 
+  - title: Vice President
+    company: Society of Petroleum Engineers (SPE) Student Chapter at Virginia Tech 
+    company_url: ''
+    location: Blacksburg, VA
+    date_start: '2020-06-01'
+    date_end: '2021-06-01'
+    description: 
         
   - title: Graduate Research Assistant
     company: China University of Petroleum, Beijing

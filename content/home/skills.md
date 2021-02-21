@@ -23,7 +23,7 @@ feature:
 - description: Core flooding, Pulse decay permeameter, Fracture conductivity cell, CT scanning, Microfluidic  
   icon: tools
   icon_pack: fas
-  name: Laboratory experiment
+  name: Laboratory Experiment
 - description: Word, Excel, Powerpoint
   icon: windows
   icon_pack: fab

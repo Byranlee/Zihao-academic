@@ -3,7 +3,9 @@ title: A New Multiphysics Model for Shale Gas Flow in Organic-Rich Shale Rock
 publication_types:
   - "1"
 authors:
-  - Zihao
+  - Zihao Li
+  - Yuntian Teng
+  - Cheng Chen
 doi: https://ui.adsabs.harvard.edu/abs/2019AGUFMMR41D0075L/abstract
 publication: AGU Fall Meeting 2019
 abstract: The flow mechanism of gas in organic-rich shale has not been

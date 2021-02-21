@@ -20,7 +20,7 @@ feature:
   icon: medium-m
   icon_pack: fab
   name: Matlab
-- description: Rock core flooding, Pulse decay permeameter, Fracture conductivity cell, CT scanning, Microfluidic  
+- description: Core flooding, Pulse decay permeameter, Fracture conductivity cell, CT scanning, Microfluidic  
   icon: tools
   icon_pack: fas
   name: Laboratory experiment

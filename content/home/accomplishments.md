@@ -28,7 +28,7 @@ item:
   date_start: "2019-07-10"
   description: ""
   organization: Stanford University Summer Program in Energy Resources Engineering 
-  organization_url: https://www.coursera.org
+  organization_url: ""
   title: 'Fundamental of Reservoir Simulation'
   url: ""
 - certificate_url: ""

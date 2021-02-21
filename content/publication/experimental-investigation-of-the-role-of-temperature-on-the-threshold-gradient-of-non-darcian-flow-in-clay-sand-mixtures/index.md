@@ -10,6 +10,7 @@ authors:
   - Yifeng Wang
   - Rui Qiao
   - Cheng Chen
+doi: https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/663845
 publication: AGU Fall Meeting 2020
 abstract: >-
   A threshold pressure gradient is needed to trigger fluid flow in

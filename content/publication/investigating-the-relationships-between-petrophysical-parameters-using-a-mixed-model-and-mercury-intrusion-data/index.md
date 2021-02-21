@@ -4,7 +4,11 @@ title: Investigating the Relationships between Petrophysical Parameters Using a
 publication_types:
   - "1"
 authors:
-  - Zihao
+  - Zihao Li
+  - Wenyu Gao
+  - Xiangming Li
+  - Ye Zang
+  - Cheng Chen
 doi: https://ui.adsabs.harvard.edu/abs/2018AGUFMMR21B0053L/abstract
 publication: AGU Fall Meeting 2018
 abstract: A mercury intrusion experiment is one of the most important methods to

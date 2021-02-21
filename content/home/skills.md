@@ -21,6 +21,10 @@ feature:
   icon_pack: fab
   name: Microsoft Office
 - description: 
+  icon: python
+  icon_pack: fab
+  name: Python
+- description: 
   icon: chart-line
   icon_pack: fas
   name: Statistics
@@ -49,5 +53,5 @@ feature:
 # - icon: "your-custom-icon-name"
 #  icon_pack: "custom"
 #  name: "Surfing"
-  description: "90%"
+#  description: "90%"
 ---

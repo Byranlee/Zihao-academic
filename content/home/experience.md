@@ -22,24 +22,32 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Graduate Research Assistant
+    company: Virginia Tech
+    company_url: 'https://www.mining.vt.edu/'
+    location: Blacksburg, VA
+    date_start: '2017-08-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+    
+        * Multiphysics & multiscale modeling of flow in tight porous media by MATLAB and finite difference method.
+        * Laboratory experiments for the petrophysical properties of conventional and unconventional rock samples.
+        * Geostatistics application (hierarchical model) in the geological formation properties investigation.
+        * Laboratory equipment set up and laboratory management.
+
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Graduate Research Assistant
+    company: China University of Petroleum, Beijing
+    company_url: 'https://www.cup.edu.cn/fcg/index.htm'
+    location: Beijing, China
+    date_start: '2013-08-31'
+    date_end: '2016-07-01'
+    description: |2-
+    
+        * Laboratory preferential-channel-blocked experiments with multiple parameter analysis.
+        * Microfluidic experiments and image/data processing. 
+        * Real-time CT scanning of core flooding experiments.
+        * Novel particle-suspended system evaluation with multi-compositions and -concentrations.
+        * Reservoir core plug sensitivity experiment, including the sensitivity of salinity, velocity, and effective stress.
+
 ---

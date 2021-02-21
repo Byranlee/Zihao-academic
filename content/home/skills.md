@@ -27,7 +27,7 @@ feature:
 - description: 
   icon: chart-line
   icon_pack: fas
-  name: Statistics
+  name: Geostatistics
 - description:
   icon: pen
   icon_pack: fas

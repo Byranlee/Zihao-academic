@@ -44,10 +44,10 @@ experience:
     date_end: '2016-07-01'
     description: |2-
     
-        * Laboratory preferential-channel-blocked experiments with multiple parameter analysis.
+        * Preferential-channel-plugged experiments with multiple parameter analysis.
         * Microfluidic experiments and image/data processing. 
         * Real-time CT scanning of core flooding experiments.
-        * Novel particle-suspended system evaluation with multi-compositions and -concentrations.
-        * Reservoir core plug sensitivity experiment, including the sensitivity of salinity, velocity, and effective stress.
+        * Novel particle-suspended system evaluation.
+        * Reservoir core plug sensitivity experiment.
 
 ---

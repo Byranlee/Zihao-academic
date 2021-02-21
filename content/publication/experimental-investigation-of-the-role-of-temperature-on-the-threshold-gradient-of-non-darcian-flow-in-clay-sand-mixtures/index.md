@@ -4,7 +4,12 @@ title: Experimental Investigation of the Role of Temperature on the Threshold
 publication_types:
   - "1"
 authors:
-  - Yun
+  - Yuntian Teng
+  - Zihao Li
+  - Weiyu Zheng
+  - Yifeng Wang
+  - Rui Qiao
+  - Cheng Chen
 publication: AGU Fall Meeting 2020
 abstract: >-
   A threshold pressure gradient is needed to trigger fluid flow in

@@ -17,6 +17,10 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 
+  icon: medium-m
+  icon_pack: fab
+  name: Matlab
+- description: 
   icon: windows
   icon_pack: fab
   name: Microsoft Office
@@ -32,10 +36,6 @@ feature:
   icon: pen
   icon_pack: fas
   name: Writing
-- description: 
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
 - description: 
   icon: cat
   icon_pack: fas

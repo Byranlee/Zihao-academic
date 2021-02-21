@@ -30,10 +30,10 @@ experience:
     date_end: ''
     description: |2-
     
-        * Multiphysics & multiscale modeling of flow in tight porous media by MATLAB and finite difference method.
-        * Laboratory experiments for the petrophysical properties of conventional and unconventional rock samples.
-        * Geostatistics application (hierarchical model) in the geological formation properties investigation.
-        * Laboratory equipment set up and laboratory management.
+        * Multiphysics & multiscale modeling of flow in tight porous media by MATLAB and finite difference method
+        * Laboratory experiments for the petrophysical properties of conventional and unconventional rock samples
+        * Geostatistics application (hierarchical model) in the geological formation properties investigation
+        * Laboratory equipment set up and laboratory management
 
         
   - title: Graduate Research Assistant
@@ -44,10 +44,10 @@ experience:
     date_end: '2016-07-01'
     description: |2-
     
-        * Preferential-channel-plugged experiments with multiple parameter analysis.
-        * Microfluidic experiments and image/data processing. 
-        * Real-time CT scanning of core flooding experiments.
-        * Novel particle-suspended system evaluation.
-        * Reservoir core plug sensitivity experiment.
-
+        * Preferential-channel-plugged experiments
+        * Microfluidic experiments and image/data processing
+        * Real-time CT scanning of core flooding experiments
+        * Novel particle-suspended system evaluation
+        * Reservoir core plug sensitivity experiment
+       
 ---

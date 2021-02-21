@@ -9,6 +9,7 @@ authors:
   - Yuntian Teng
   - Ripepi Nino
   - Cheng Chen
+doi: https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/670792
 publication: AGU Fall Meeting 2020
 abstract: "Hydraulic fracturing is an influential revolution in the global
   energy industry. One of the critical properties in hydraulic fracturing is the

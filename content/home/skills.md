@@ -24,14 +24,18 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
 - description:
   icon: pen
   icon_pack: fas
   name: Writing
+- description: 
+  icon: camera-retro
+  icon_pack: fas
+  name: Photography
+- description: 
+  icon: cat
+  icon_pack: fas
+  name: Pat the cat
 
 # Uncomment to use emoji icons.
 # - icon: ":smile:"

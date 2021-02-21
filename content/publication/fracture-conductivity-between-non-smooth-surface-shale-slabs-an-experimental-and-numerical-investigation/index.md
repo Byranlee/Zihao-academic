@@ -4,7 +4,11 @@ title: "Fracture Conductivity between Non-smooth-surface Shale Slabs: an
 publication_types:
   - "1"
 authors:
-  - Zihao
+  - Zihao Li
+  - Ming Fan
+  - Yuntian Teng
+  - Ripepi Nino
+  - Cheng Chen
 publication: AGU Fall Meeting 2020
 draft: false
 featured: false

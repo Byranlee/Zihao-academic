@@ -5,7 +5,11 @@ subtitle: ""
 publication_types:
   - "1"
 authors:
-  - Ming
+  - Ming Fan
+  - Zihao Li
+  - Yanhui Han
+  - Yuntian Teng
+  - Cheng Chen
 publication: AGU Falling Meeting 2020
 draft: false
 featured: false

@@ -4,7 +4,9 @@ title: "Influence and Regression Model of Long-term Waterflooding on Reservoir
 publication_types:
   - "1"
 authors:
-  - Zihao
+  - Zihao Li
+  - Chenguang Du
+  - Cheng Chen
 doi: http://www.searchanddiscovery.com/abstracts/html/2018/pittsburgh-90335/abstracts/2018.ES.01.html
 publication: In 47th Annual 2018 AAPG-SPE Eastern Section Joint Meeting Abstracts
 abstract: After waterflooding treatments over several decades, the petrophysical

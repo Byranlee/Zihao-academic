@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Fenglan Zhao
   - Zihao Li
-  - Guoqiang Li
+  - Guoqiao Li
   - Zhaojie Song
   - Jirui Hou
 doi: http://www.xml-data.org/XNSYDXXBZRB/HTML/2016-5-157.htm

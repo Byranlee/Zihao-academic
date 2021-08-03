@@ -1,6 +1,6 @@
 ---
 title: Zihao Li
-role: Ph.D. Candidate
+role: "Ph.D. "
 bio: My research interests include petrophysics, fluid flow in porous media, and
   enhanced oil/gas recovery.
 interests:
@@ -42,8 +42,4 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-
-I am a Ph.D. candidate in mining engineering at Virginia Tech. My current research efforts focus primarily on petrophysical property analysis and the geostatistics-based applications of conventional and unconventional reservoirs using laboratory core analysis and numerical modeling. I have broad interests in petrophysics, enhanced oil/gas recovery, fluid flow in porous medium, and poroelasticity. I work with Dr. Cheng Chen since 2017. Our group's research of interest focus on subsurface energy, water, and environmental systems.
-
-
-
+I am a Ph.D. in mining engineering at Virginia Tech. My current research efforts focus primarily on petrophysical property analysis and the geostatistics-based applications of conventional and unconventional reservoirs using laboratory core analysis and numerical modeling. I have broad interests in petrophysics, enhanced oil/gas recovery, fluid flow in porous medium, and poroelasticity. I work with Dr. Cheng Chen since 2017. Our group's research of interest focus on subsurface energy, water, and environmental systems.

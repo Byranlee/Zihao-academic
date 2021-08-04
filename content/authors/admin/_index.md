@@ -28,7 +28,7 @@ education:
   courses:
     - course: Ph.D. in Mining & Minerals Engineering
       institution: Virginia Tech
-      year: 2017 - expected 2021
+      year: 2017 - 2021
     - course: M.S. in Mining & Minerals Engineering
       institution: Virginia Tech
       year: 2017 - 2018

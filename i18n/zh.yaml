@@ -123,7 +123,9 @@
 - id: publications
   translation: 出版物
 - id: talks
-  translation: 演讲
+  translation: 讨论
+- id: Zihao Li
+  translation: 李子豪
 - id: projects
   translation: 项目
 - id: slides

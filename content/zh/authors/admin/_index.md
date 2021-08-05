@@ -1,13 +1,12 @@
 ---
-title: Zihao Li
+title: 李子豪
 role: "Ph.D. "
-bio: My research interests include petrophysics, fluid flow in porous media, and
-  enhanced oil/gas recovery.
+bio: 我的研究方向包括油层物理，渗流力学，提高油气采收率等
 interests:
-  - Petrophysics
-  - Fluid flow in porous media
-  - Enhanced oil/gas recovery
-  - Carbon sequestration
+  - 油层物理
+  - 渗流力学
+  - 提高油气采收率
+  - 碳埋存与碳中和
 social:
   - icon: envelope
     icon_pack: fas
@@ -22,24 +21,24 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/zihao-li-90bb71116/
 organizations:
-  - name: Virginia Tech
+  - name: 弗吉尼亚理工大学
     url: https://www.vt.edu/
 education:
   courses:
-    - course: Ph.D. in Mining & Minerals Engineering
-      institution: Virginia Tech
+    - course: Mining & Minerals Engineering，博士
+      institution: 弗吉尼亚理工大学 （Virginia Tech）
       year: 2017 - 2021
-    - course: M.S. in Mining & Minerals Engineering
-      institution: Virginia Tech
+    - course: Mining & Minerals Engineering，硕士
+      institution: 弗吉尼亚理工大学 （Virginia Tech）
       year: 2017 - 2018
-    - course: M.S. in Oil & Gas Field Development Engineering
-      institution: China University of Petroleum, Beijing
+    - course: 油气田开发工程，硕士
+      institution: 中国石油大学（北京）
       year: 2013 - 2016
-    - course: B.S. in Geographic Information System (GIS)
-      institution: China University of Petroleum, East China
+    - course: 地理信息系统 (GIS)，本科
+      institution: 中国石油大学（华东）
       year: 2009 - 2013
 email: ""
 superuser: true
 highlight_name: false
 ---
-I am a Ph.D. in mining engineering at Virginia Tech. My current research efforts focus primarily on petrophysical property analysis and the geostatistics-based applications of subsurface reservoirs using numerical modeling and laboratory core analysis. I have broad interests in petrophysics, enhanced oil/gas recovery, fluid flow in porous medium, and carbon sequestration. I have been collaborating with Dr. Cheng Chen since 2017. Our group's research of interest focus on subsurface energy, water, and environmental systems.
+我博士就读于弗吉尼亚理工大学 （Virginia Tech），现在的研究主要集中在利用数值模拟，计量统计和室内实验等方法探究地下油气储层的物理性质，包括了油层物理、渗流力学、提高油气采收率、碳埋存与碳中和等研究方向。我从2017年开始在陈铖教授（Prof. Cheng Chen）的实验室中工作，我们实验室的主要研究方向包括地下能源、水利以及环境系统等方面的研究。

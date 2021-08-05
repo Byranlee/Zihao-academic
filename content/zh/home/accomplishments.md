@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: '学术培训'
 subtitle:
 
 # Date format
@@ -35,9 +35,9 @@ item:
   date_end: "2015-08-15"
   date_start: "2015-07-15"
   description: ""
-  organization: 'National Summer School for Graduate Students (Oil and Resources)'
+  organization: '全国研究生暑期学校（油气资源）'
   organization_url: 
-  title: Oil and Resources Course
+  title: 油气资源课程
   url: ""
 - certificate_url: ""
   date_end: "2015-04-15"

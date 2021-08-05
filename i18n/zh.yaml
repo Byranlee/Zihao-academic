@@ -57,7 +57,7 @@
 - id: btn_download
   translation: 下载
 - id: interests
-  translation: 兴趣爱好
+  translation: 研究方向
 - id: education
   translation: 教育经历
 - id: user_profile_latest
@@ -65,7 +65,7 @@
 - id: see_certificate
   translation: 查看证书
 - id: present
-  translation: 现在
+  translation: 至今
 - id: more_pages
   translation: 查看全部
 - id: more_posts
@@ -73,7 +73,7 @@
 - id: more_talks
   translation: 查看全部演讲
 - id: more_publications
-  translation: 查看全部出版物
+  translation: 查看全部期刊与会议论文
 - id: contact_name
   translation: 姓名
 - id: contact_email
@@ -123,7 +123,9 @@
 - id: publications
   translation: 出版物
 - id: talks
-  translation: 演讲
+  translation: 讨论
+- id: Zihao Li
+  translation: 李子豪
 - id: projects
   translation: 项目
 - id: slides

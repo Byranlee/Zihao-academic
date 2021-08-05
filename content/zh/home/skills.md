@@ -48,7 +48,7 @@ feature:
   icon: hiking
   icon_pack: fas
   name: 徒步
-- description: Meow
+- description: 一直撸猫一直爽
   icon: cat
   icon_pack: fas
   name: 撸猫

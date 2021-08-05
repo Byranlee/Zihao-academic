@@ -3,10 +3,10 @@ title: 李子豪
 role: "Ph.D. "
 bio: 我的研究方向包括油层物理，渗流力学，提高油气采收率等
 interests:
-  - Petrophysics
-  - Fluid flow in porous media
-  - Enhanced oil/gas recovery
-  - Carbon sequestration
+  - 油层物理
+  - 渗流力学
+  - 提高油气采收率
+  - 碳埋存与碳中和
 social:
   - icon: envelope
     icon_pack: fas

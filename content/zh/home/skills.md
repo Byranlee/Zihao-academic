@@ -44,10 +44,10 @@ feature:
   icon: globe-americas
   icon_pack: fas
   name: GIS
-- description: 在路上
-  icon: hiking
-  icon_pack: fas
-  name: 徒步
+- description: 渗流与地热模拟
+  icon: OpenFOAM
+  icon_pack: custom
+  name: OpenFOAM
 - description: 一直撸猫一直爽
   icon: cat
   icon_pack: fas

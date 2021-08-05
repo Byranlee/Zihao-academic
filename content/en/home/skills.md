@@ -44,10 +44,10 @@ feature:
   icon: globe-americas
   icon_pack: fas
   name: GIS
-- description: More and more trails
-  icon: hiking
-  icon_pack: fas
-  name: Hiking
+- description: Subsurface flow and geothermal modeling
+  icon: OpenFOAM
+  icon_pack: custom
+  name: OpenFOAM
 - description: Pat pat pat
   icon: cat
   icon_pack: fas

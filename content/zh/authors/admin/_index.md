@@ -21,7 +21,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/zihao-li-90bb71116/
 organizations:
-  - name: 弗吉尼亚理工大学 （Virginia Tech）
+  - name: 弗吉尼亚理工大学
     url: https://www.vt.edu/
 education:
   courses:

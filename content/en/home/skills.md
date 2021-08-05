@@ -51,7 +51,7 @@ feature:
 - description: Pat pat pat
   icon: cat
   icon_pack: fas
-  name: Pat the cat
+  name: Patting cats
 
 # Uncomment to use emoji icons.
 # - icon: ":smile:"

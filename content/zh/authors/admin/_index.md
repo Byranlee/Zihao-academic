@@ -1,8 +1,7 @@
 ---
-title: Zihao Li
+title: 李子豪
 role: "Ph.D. "
-bio: My research interests include petrophysics, fluid flow in porous media, and
-  enhanced oil/gas recovery.
+bio: 我的研究方向包括油层物理，渗流力学，提高油气采收率等
 interests:
   - Petrophysics
   - Fluid flow in porous media

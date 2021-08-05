@@ -44,7 +44,7 @@ feature:
   icon: globe-americas
   icon_pack: fas
   name: GIS
-- description: subsurface flow and geothermal modeling
+- description: Subsurface flow and geothermal modeling
   icon: OpenFOAM
   icon_pack: custom
   name: OpenFOAM

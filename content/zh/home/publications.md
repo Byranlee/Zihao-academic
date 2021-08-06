@@ -38,5 +38,5 @@ design:
 ---
 
 {{% callout note %}}
-通过[搜索](./publication/)快速查找相关内容
+通过 [搜索](./publication/) 快速查找相关内容
 {{% /callout %}}

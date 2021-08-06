@@ -38,5 +38,5 @@ design:
 ---
 
 {{% callout note %}}
-快速查找相关内容(./publication/).
+通过[筛选论文]快速查找相关内容
 {{% /callout %}}

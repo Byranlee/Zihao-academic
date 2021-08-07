@@ -87,7 +87,7 @@
 - id: abstract
   translation: 摘要
 - id: publication
-  translation: 出版物
+  translation: 期刊或会议名
 - id: publication_type
   translation: 类型
 - id: date

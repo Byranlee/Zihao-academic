@@ -69,7 +69,7 @@
 - id: more_pages
   translation: 查看全部
 - id: more_posts
-  translation: 查看全部文章
+  translation: 查看全部讨论
 - id: more_talks
   translation: 查看全部演讲
 - id: more_publications
@@ -87,7 +87,7 @@
 - id: abstract
   translation: 摘要
 - id: publication
-  translation: 出版物
+  translation: 期刊或会议名
 - id: publication_type
   translation: 类型
 - id: date
@@ -101,9 +101,9 @@
 - id: pub_uncat
   translation: 未分类
 - id: pub_conf
-  translation: 会议文章
+  translation: 会议论文
 - id: pub_journal
-  translation: 期刊文章
+  translation: 期刊论文
 - id: pub_preprint
   translation: 预印本
 - id: pub_report

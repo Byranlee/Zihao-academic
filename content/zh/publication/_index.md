@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: 近期论文与研究成果
 cms_exclude: true
 
 # View.

@@ -26,18 +26,18 @@ organizations:
     url: https://www.vt.edu/
 education:
   courses:
-    - course: Ph.D. in Mining & Minerals Engineering
+    - course: Ph.D. in Mining Engineering
       institution: Virginia Tech
-      year: 2017 - 2021
-    - course: M.S. in Mining & Minerals Engineering
+      year: 2021
+    - course: M.S. in Mining Engineering
       institution: Virginia Tech
-      year: 2017 - 2018
+      year: 2018
     - course: M.S. in Oil & Gas Field Development Engineering
       institution: China University of Petroleum, Beijing
-      year: 2013 - 2016
+      year: 2016
     - course: B.S. in Geographic Information System (GIS)
       institution: China University of Petroleum, East China
-      year: 2009 - 2013
+      year: 2013
 email: ""
 superuser: true
 highlight_name: false

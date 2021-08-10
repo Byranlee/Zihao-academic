@@ -25,18 +25,18 @@ organizations:
     url: https://www.vt.edu/
 education:
   courses:
-    - course: Mining & Minerals Engineering，博士
+    - course: 博士，Mining Engineering
       institution: 弗吉尼亚理工大学 （Virginia Tech）
-      year: 2017 - 2021
-    - course: Mining & Minerals Engineering，硕士
+      year: 2021
+    - course: 硕士，Mining Engineering
       institution: 弗吉尼亚理工大学 （Virginia Tech）
-      year: 2017 - 2018
-    - course: 油气田开发工程，硕士
+      year: 2018
+    - course: 硕士，油气田开发工程
       institution: 中国石油大学（北京）
-      year: 2013 - 2016
-    - course: 地理信息系统 (GIS)，本科
+      year: 2016
+    - course: 本科，地理信息系统 (GIS)
       institution: 中国石油大学（华东）
-      year: 2009 - 2013
+      year: 2013
 email: ""
 superuser: true
 highlight_name: false

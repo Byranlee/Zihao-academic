@@ -42,4 +42,4 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a Ph.D. in mining engineering at Virginia Tech. My current research efforts focus primarily on petrophysical property analysis and the geostatistics-based applications of subsurface reservoirs using numerical modeling and laboratory core analysis. I have broad interests in petrophysics, enhanced oil/gas recovery, fluid flow in porous medium, and carbon sequestration. I have been collaborating with Dr. Cheng Chen since 2017. Our group's research of interest focus on subsurface energy, water, and environmental systems.
+I am a Ph.D. in mining engineering at Virginia Tech. My current research efforts focus primarily on petrophysical property analysis and the geostatistics-based applications of subsurface reservoirs using numerical modeling and laboratory core analysis. I have broad interests in petrophysics, enhanced oil/gas recovery, fluid flow in porous medium, and carbon sequestration. I am currently a postdoctoral associate at Cornell University, where I am working with Prof. Greeshma Gadikota to develop the chemo-mechanical basis for observed failures in engineered and natural materials.

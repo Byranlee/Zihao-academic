@@ -22,12 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+    -title: 博士后研究助理
+    company: 康奈尔大学
+    company_url: 'https://www.cornell.edu/'
+    location: 伊萨卡，纽约州
+    date_start: '2021-09-13'
+    date_end: ''
+    description: |2-
+    
+        * 地热工程应用中的裂缝调节研究
+
   - title: 研究助理
     company: 弗吉尼亚理工大学
     company_url: 'https://www.mining.vt.edu/'
     location: 黑堡，弗吉尼亚州
     date_start: '2017-08-01'
-    date_end: ''
+    date_end: '2021-08-13'
     description: |2-
     
         * 利用Matlab与有限差分法进行致密多孔介质中的多机理与多尺度数值模型研究

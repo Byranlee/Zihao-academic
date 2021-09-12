@@ -1,6 +1,6 @@
 ---
 title: 李子豪
-role: "Ph.D. "
+role: "博士后研究助理"
 bio: 我的研究方向包括油层物理，渗流力学，提高油气采收率等
 interests:
   - 油层物理
@@ -21,8 +21,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/zihao-li-90bb71116/
 organizations:
-  - name: 弗吉尼亚理工大学
-    url: https://www.vt.edu/
+  - name: 康奈尔大学
+    url: https://www.cornell.edu/
 education:
   courses:
     - course: 博士，Mining Engineering
@@ -41,4 +41,4 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-我博士就读于弗吉尼亚理工大学 （Virginia Tech），现在的研究主要集中在利用数值模拟，计量统计和室内实验等方法探究地下油气储层的物理性质，包括了油层物理、渗流力学、提高油气采收率、碳埋存与碳中和等研究方向。我目前在康奈尔大学与Greeshma Gadikota教授合作，从事关于工程或自然环境中裂缝性质的基础研究工作。
+我博士就读于弗吉尼亚理工大学 （Virginia Tech），现在的研究主要集中在利用数值模拟，计量统计和室内实验等方法探究地下油气储层的物理性质，包括了油层物理、渗流力学、提高油气采收率、碳埋存与碳中和等研究方向。我目前在康奈尔大学担任博士后研究助理，并与Greeshma Gadikota教授合作，从事关于工程或自然环境中裂缝性质的基础研究工作。

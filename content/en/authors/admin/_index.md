@@ -1,6 +1,6 @@
 ---
 title: Zihao Li
-role: "Ph.D. "
+role: "Postdoctoral associate"
 bio: My research interests include petrophysics, fluid flow in porous media, and
   enhanced oil/gas recovery.
 interests:
@@ -22,8 +22,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/zihao-li-90bb71116/
 organizations:
-  - name: Virginia Tech
-    url: https://www.vt.edu/
+  - name: Cornell University
+    url: https://www.cornell.edu/
 education:
   courses:
     - course: Ph.D. in Mining Engineering

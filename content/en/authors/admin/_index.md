@@ -1,6 +1,6 @@
 ---
 title: Zihao Li
-role: "Postdoctoral associate"
+role: "Postdoctoral Associate"
 bio: My research interests include petrophysics, fluid flow in porous media, and
   enhanced oil/gas recovery.
 interests:

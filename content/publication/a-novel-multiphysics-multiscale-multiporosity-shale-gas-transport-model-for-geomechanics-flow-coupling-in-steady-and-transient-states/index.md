@@ -38,8 +38,8 @@ abstract: A novel multiphysics multiscale multiporosity shale gas transport
 draft: false
 featured: true
 image:
-  filename: featured
+  filename: figure-3.png
   focal_point: Smart
   preview_only: false
-date: 2021-09-19T17:31:20.529Z
+date: 2021-09-15T17:31:00.000Z
 ---

@@ -38,7 +38,7 @@ abstract: The confining pressure imposed on a shale formation has a significant
   data fitting confirmed that the MPST model captures the critical multi-physics
   processes that regulate the apparent permeability.
 draft: false
-featured: true
+featured: false
 image:
   filename: ""
   focal_point: Smart

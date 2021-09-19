@@ -4,10 +4,12 @@ role: "Postdoctoral Associate"
 bio: My research interests include petrophysics, fluid flow in porous media, and
   enhanced oil/gas recovery.
 interests:
-  - Petrophysics
-  - Fluid flow in porous media
-  - Enhanced oil/gas recovery
   - Carbon sequestration
+  - Geothermal
+  - Fluid flow in porous media
+  - Petrophysics
+  - Enhanced oil/gas recovery
+  
 social:
   - icon: envelope
     icon_pack: fas

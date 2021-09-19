@@ -8,7 +8,7 @@ authors:
   - Yuntian Teng
   - Ming Fan
   - Nino Ripepi
-  - Cheng Chen
+  - and Cheng Chen
 author_notes:
   - Virginia Tech
 doi: https://doi.org/10.2118/206726-PA

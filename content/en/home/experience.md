@@ -31,7 +31,7 @@ experience:
     description: |2-
     
         *  Carbonate crystallization and reactive transport in the subsurface conditions (microfluidics experiment, Raman microscopy, and OpenFOAM and PHREEQC simulation)
-        *  Tuning fractures for geothermal applications
+        *  Developing the chemo-mechanical basis for observed failures in engineered and natural materials
 
 
   - title: Graduate Research Assistant

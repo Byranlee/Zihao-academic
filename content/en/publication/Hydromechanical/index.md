@@ -6,6 +6,10 @@ authors:
   - Qi Zhang
   - Xia Yan
   - Zihao Li
+author_notes:
+  - Stanford University
+  - China University of Petroleum (East China)
+  - Cornell University
 doi: "https://doi.org/10.1016/j.compgeo.2022.104728"
 publication: Computers and Geotechnics
 abstract: >-

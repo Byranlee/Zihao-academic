@@ -30,7 +30,8 @@ experience:
     date_end: ''
     description: |2-
     
-        * Tuning fractures for geothermal applications
+        *  Carbonate crystallization and reactive transport in the subsurface conditions (microfluidics experiment, Raman microscopy, and OpenFOAM and PHREEQC simulation)
+        *  Tuning fractures for geothermal applications
 
 
   - title: Graduate Research Assistant

@@ -1,15 +1,13 @@
 ---
-title: "Experimental investigation of non-monotonic fracture conductivity
-evolution in energy georeservoirs"
+title: "A Novel Experimental Study on Density-Driven Instability and Convective Dissolution in Porous Media"
 publication_types:
   - "2"
 authors:
-  - Zihao Li
+  - Ruichang Guo
+  - Hanxing Sun
   - Qingqi Zhao
-  - Yuntian Teng
-  - Ming Fan
-  - Nino Ripepi
-  - Xiaolong Yin
+  - Zihao Li
+  - Yang Liu
   - Cheng Chen
 author_notes:
   - Virginia Tech
@@ -18,15 +16,15 @@ author_notes:
   - Virginia Tech
   - Virginia Tech
   - Stevens Institute of Technology
-doi: "https://doi.org/10.1016/j.petrol.2022.110103"
-publication: Journal of Petroleum Science and Engineering
+doi: "https://doi.org/10.1029/2021GL095619"
+publication: Geophysical Research Letters
 abstract: >-
-  Significant fracture conductivity can be achieved using a much lower material cost based on the optimal partial-monolayer proppant concentration (OPPC) theory. However, experimental validation and investigation of the OPPC theory have been extremely rare in the literature. In this study, we used a laboratory fracture conductivity cell to conduct well-controlled fracture conductivity experiments to comprehensively study the role of effective stress, proppant size, rock type, and water soaking on the evolution of fracture conductivity as a function of increasing proppant concentration. With seven proppant concentrations (up to 2 lb/ft2) and seven effective stresses (up to 6,000 psi) used in the conductivity measurements, we experimentally confirmed that the correlation between fracture conductivity and proppant concentration was non-monotonic because of a competing process between fracture permeability and fracture width. We also investigated the influence of the above-mentioned experimental conditions on the OPPC and the corresponding optimal fracture conductivity (OFC). This is the first study that uses well-controlled laboratory experiments to comprehensively investigate non-monotonic fracture conductivity evolutions. The existence of the OPPC indicates that a relatively low proppant amount can be used to form a partial-monolayer proppant pack in the fracture space, which has similar or higher fracture conductivity compared to a multilayer proppant structure. This finding has important economic implications because high-strength, ultralight-weight proppant particles can be used to form partial-monolayer proppant packs in fractures, leading to sufficiently high fracture conductivity using a much lower material cost compared to multilayer proppant structures. Our experiments illustrated that proppant embedment is the primary mechanism that causes the competing process between fracture width and fracture permeability and consequently the non-monotonic fracture conductivity evolution as a function of increasing proppant concentration. Without proppant embedment, there will not be such a competing process, and the non-monotonic fracture conductivity evolution will not be observed.
+  Geological carbon dioxide (CO2) sequestration (GCS) in deep saline aquifers is a promising solution to mitigate the impact of anthropogenic CO2 emissions on global climate change. CO2 dissolved in formation water increases the solution density and can lead to miscible density-driven downward convection, which significantly accelerates the dissolution trapping of injected CO2. Experimental studies on miscible density-driven convection have been limited. In the laboratory, we found an empirical linear correlation between reflected green light intensity and solute concentration, which enabled in situ measurements of solute concentrations in the spatial and temporal domains and consequently the mass flux across the top boundary of the porous medium. Using the novel experimental techniques, we determined the critical Rayleigh-Darcy number and critical time scales for the onset of density-driven instability and convective dissolution. This is the first study to determine these critical system parameters using laboratory experiments.
 draft: false
 featured: false
 image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2022-01-05T01:03:00.000Z
+date: 2021-11-17T01:03:00.000Z
 ---

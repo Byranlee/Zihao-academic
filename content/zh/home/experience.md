@@ -30,7 +30,8 @@ experience:
     date_end: ''
     description: |2-
     
-        * 地热工程应用中的裂缝调节研究
+        * 储层环境中的碳酸盐岩结晶与反应流动（应用微流控实验，拉曼光谱以及OpenFOAM和PHREEQC数值模拟）
+        * 工程与自然材料中微裂缝的化学-机械耦合机理
 
   - title: 研究助理
     company: 弗吉尼亚理工大学

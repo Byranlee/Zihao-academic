@@ -4,13 +4,9 @@ porosity media"
 publication_types:
   - "2"
 authors:
+  - Qi Zhang
+  - Xia Yan
   - Zihao Li
-  - Qingqi Zhao
-  - Yuntian Teng
-  - Ming Fan
-  - Nino Ripepi
-  - Xiaolong Yin
-  - Cheng Chen
 doi: "https://doi.org/10.1016/j.petrol.2022.110103"
 publication: Journal of Petroleum Science and Engineering
 abstract: >-

@@ -1,6 +1,6 @@
 ---
-title: "Experimental investigation of non-monotonic fracture conductivity
-evolution in energy georeservoirs"
+title: "A mathematical framework for multiphase poromechanics in multiple
+porosity media"
 publication_types:
   - "2"
 authors:

@@ -9,6 +9,13 @@ authors:
   - Zihao Li
   - Yang Liu
   - Cheng Chen
+author_notes:
+  - Virginia Tech
+  - Virginia Tech
+  - Stevens Institute of Technology
+  - Virginia Tech
+  - Virginia Tech
+  - Stevens Institute of Technology
 doi: "https://doi.org/10.1029/2021GL095619"
 publication: Geophysical Research Letters
 abstract: >-

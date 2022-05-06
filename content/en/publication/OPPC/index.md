@@ -11,6 +11,14 @@ authors:
   - Nino Ripepi
   - Xiaolong Yin
   - Cheng Chen
+author_notes:
+  - Virginia Tech, Cornell University
+  - Stevens Institute of Technology
+  - Stevens Institute of Technology
+  - Virginia Tech
+  - Virginia Tech
+  - Colorado School of Mines
+  - Stevens Institute of Technology
 doi: "https://doi.org/10.1016/j.petrol.2022.110103"
 publication: Journal of Petroleum Science and Engineering
 abstract: >-

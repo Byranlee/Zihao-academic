@@ -11,6 +11,10 @@ authors:
   - and Cheng Chen
 author_notes:
   - Virginia Tech
+  - Virginia Tech
+  - Virginia Tech
+  - Virginia Tech
+  - Virginia Tech
 doi: https://doi.org/10.2118/206726-PA
 publication: SPE Journal
 abstract: A novel multiphysics multiscale multiporosity shale gas transport

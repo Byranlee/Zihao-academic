@@ -5,7 +5,7 @@ bio: My research interests include petrophysics, fluid flow in porous media, and
   enhanced oil/gas recovery.
 interests:
   - Carbon sequestration
-  - Geothermal
+  - Reactive flow and transport
   - Fluid flow in porous media
   - Petrophysics
   - Enhanced oil/gas recovery

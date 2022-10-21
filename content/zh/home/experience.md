@@ -34,7 +34,6 @@ experience:
         * 新型压裂液StimuFrac研发
         * 地热储层开发
 
-experience:
   - title: 博士后研究助理
     company: 康奈尔大学
     company_url: 'https://www.cornell.edu/'

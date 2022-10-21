@@ -23,11 +23,24 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: 博士后研究助理
+    company: 西北太平洋国家实验室
+    company_url: 'https://www.pnnl.gov/'
+    location: 里奇兰，华盛顿州
+    date_start: '2021-09'
+    date_end: ''
+    description: |2-
+    
+        * 新型支撑剂研发
+        * 新型压裂液StimuFrac研发
+        * 地热储层开发
+
+experience:
+  - title: 博士后研究助理
     company: 康奈尔大学
     company_url: 'https://www.cornell.edu/'
     location: 伊萨卡，纽约州
-    date_start: '2021-09-13'
-    date_end: ''
+    date_start: '2021-09'
+    date_end: '2022-08'
     description: |2-
     
         * 储层环境中的碳酸盐岩结晶与反应流动（应用微流控实验，拉曼光谱以及OpenFOAM和PHREEQC数值模拟）

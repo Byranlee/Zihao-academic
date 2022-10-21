@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-- title: Postdoctoral Associate
+  - title: Postdoctoral Associate
     company: Cornell University
     company_url: 'https://www.cornell.edu//'
     location: Ithaca, NY

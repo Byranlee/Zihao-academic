@@ -34,6 +34,7 @@ experience:
         *  StimuFrac 
         *  Geothermal reservoir development
 
+
 - title: Postdoctoral Associate
     company: Cornell University
     company_url: 'https://www.cornell.edu//'

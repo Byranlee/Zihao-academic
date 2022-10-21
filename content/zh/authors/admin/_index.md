@@ -22,8 +22,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/zihao-li-90bb71116/
 organizations:
-  - name: 康奈尔大学
-    url: https://www.cornell.edu/
+  - name: 西北太平洋国家实验室
+    url: https://www.pnnl.gov/
 education:
   courses:
     - course: 博士，Mining Engineering

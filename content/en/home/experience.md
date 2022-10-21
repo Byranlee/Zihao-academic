@@ -33,9 +33,8 @@ experience:
     
         *  Novel proppant development
         *  StimuFrac 
-        *  Geothermal reservoir development
 
-  - title: Postdoctoral Associate
+- title: Postdoctoral Associate
     company: Cornell University
     company_url: 'https://www.cornell.edu//'
     location: Ithaca, NY

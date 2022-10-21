@@ -34,7 +34,7 @@ experience:
         *  Novel proppant development
         *  StimuFrac 
 
-- title: Postdoctoral Associate
+  - title: Postdoctoral Associate
     company: Cornell University
     company_url: 'https://www.cornell.edu//'
     location: Ithaca, NY

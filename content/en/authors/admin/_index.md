@@ -24,8 +24,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/zihao-li-90bb71116/
 organizations:
-  - name: Cornell University
-    url: https://www.cornell.edu/
+  - name: Pacific Northwest National Laboratory
+    url: https://www.pnnl.gov/
 education:
   courses:
     - course: Ph.D. in Mining Engineering

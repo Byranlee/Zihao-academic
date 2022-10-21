@@ -88,19 +88,19 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "zl468@cornell.edu"
+email = "zihao.li@pnnl.gov"
 phone = "(540)998-1479"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "220 Hollister Dr", city = "Ithaca", region = "NY", postcode = "14853", country = "United States", country_code = "US"}
+address = {street = "900 Battelle Blvd", city = "Richland", region = "WA", postcode = "99354", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "42.444434992444336", longitude = "-76.48473758092739"}
+coordinates = {latitude = "46.345856779504054", longitude = "-119.27812339399604"}
 
 # Directions for visitors to locate you.
-directions = "Enter Hollister Hall and walk to Office 468 on Floor 4"
+directions = "One Card, One Entry"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

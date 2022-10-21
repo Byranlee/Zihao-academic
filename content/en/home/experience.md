@@ -22,12 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Postdoctoral Associate
+  - title: Post Doctorate RA
+    company: Pacific Northwest National Laboratory
+    company_url: 'https://www.pnnl.gov/'
+    location: Richland, WA
+    date_start: '2021-09'
+    date_end: ''
+    description: |2-
+    
+        *  Novel proppant development
+        *  StimuFrac 
+        *  Geothermal reservoir development
+
+- title: Postdoctoral Associate
     company: Cornell University
     company_url: 'https://www.cornell.edu//'
     location: Ithaca, NY
-    date_start: '2021-09-13'
-    date_end: ''
+    date_start: '2021-09'
+    date_end: '2022-08'
     description: |2-
     
         *  Carbonate crystallization and reactive transport in the subsurface conditions (microfluidics experiment, Raman microscopy, and OpenFOAM and PHREEQC simulation)

@@ -1,6 +1,6 @@
 ---
 title: Zihao Li
-role: "Post Doctorate"
+role: "Post Doctorate RA"
 bio: My research interests include petrophysics, fluid flow in porous media, and
   enhanced oil/gas recovery.
 interests:
@@ -44,4 +44,4 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I received Ph.D. in mining engineering at Virginia Tech with the research efforts focusing primarily on petrophysical property analysis and the geostatistics-based applications of subsurface reservoirs using numerical modeling and laboratory core analysis. I have broad interests in petrophysics, reactive flow and transport, fluid flow in porous media, and carbon sequestration. I am currently a Post Doctorate RA at Pacific Northwest National Laboratory (PNNL), where I am working to develop the novel proppant, cement, fracturing fluids for the development of subsurface reservoir with high-temperature condition (e.g. geothermal)  
+I received Ph.D. in mining engineering at Virginia Tech with the research efforts focusing primarily on petrophysical property analysis and the geostatistics-based applications of subsurface reservoirs using numerical modeling and laboratory core analysis. I have broad interests in petrophysics, reactive flow and transport, fluid flow in porous media, and carbon sequestration. I am currently a Post Doctorate RA at Pacific Northwest National Laboratory (PNNL), where I am working on the development of novel products for subsurface reservoirs with specific conditions (e.g. geothermal), carbonate crystallization, and carbon capture and sequestration (CCS).

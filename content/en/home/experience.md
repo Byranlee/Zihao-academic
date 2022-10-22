@@ -26,7 +26,7 @@ experience:
     company: Pacific Northwest National Laboratory
     company_url: 'https://www.pnnl.gov/'
     location: Richland, WA
-    date_start: '2021-09'
+    date_start: 'Sep 2022'
     date_end: ''
     description: |2-
     

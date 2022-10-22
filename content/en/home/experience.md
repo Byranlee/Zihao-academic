@@ -32,6 +32,8 @@ experience:
     
         *  Novel proppant development
         *  StimuFrac 
+
+
   - title: Postdoctoral Associate
     company: Cornell University
     company_url: 'https://www.cornell.edu//'
@@ -42,8 +44,6 @@ experience:
     
         *  Carbonate crystallization and reactive transport in the subsurface conditions (microfluidics experiment, Raman microscopy, and OpenFOAM and PHREEQC simulation)
         *  Developing the chemo-mechanical basis for observed failures in engineered and natural materials
-		
-		
 		
   - title: Graduate Research Assistant
     company: Virginia Tech

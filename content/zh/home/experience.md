@@ -38,8 +38,8 @@ experience:
     company: 康奈尔大学
     company_url: 'https://www.cornell.edu/'
     location: 伊萨卡，纽约州
-    date_start: '2021-09-01'
-    date_end: '2022-08-01'
+    date_start: '2021-09-13'
+    date_end: '2022-08-31'
     description: |2-
     
         * 储层环境中的碳酸盐岩结晶与反应流动（应用微流控实验，拉曼光谱以及OpenFOAM和PHREEQC数值模拟）

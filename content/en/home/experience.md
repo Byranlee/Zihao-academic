@@ -32,6 +32,8 @@ experience:
     
         *  Novel proppant development
         *  StimuFrac 
+        *  Carbonate crystallization
+        *  Geothermal engineering
 
 
   - title: Postdoctoral Associate

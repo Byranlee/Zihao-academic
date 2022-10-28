@@ -26,7 +26,7 @@ experience:
     company: 西北太平洋国家实验室
     company_url: 'https://www.pnnl.gov/'
     location: 里奇兰，华盛顿州
-    date_start: '2021-09-26'
+    date_start: '2022-09-26'
     date_end: ''
     description: |2-
     
